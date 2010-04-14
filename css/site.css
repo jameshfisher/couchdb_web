@@ -1,0 +1,87 @@
+header, footer, nav, article, section, aside { display: block; }
+body {
+  margin: 0; 
+  background-color: #9fd6d6; 
+  background-image: url("fade.png");
+  background-repeat: repeat-x;
+  font-size: 14px;
+  line-height: 21px;
+  }
+div.content, footer { width:  987px; margin: 0 auto 0 auto; }
+div#topslice {
+  background-image: url("background.png");
+  background-position: center top;
+  background-repeat: no-repeat;
+  height: 699px;
+  padding-bottom: 55px;
+  }
+h1,h2,h3,h4,h5,h6 {
+  font-family: CandelaBook, Arial, sans-serif;
+  text-shadow: white 1px 1px 1px;
+  }
+h3 { font-size: 20px; }
+header {
+  border: 0;
+  border-top: 21px solid #bd101d;
+  }
+header blockquote {
+  margin: 20px 0 0 0;
+  width: 323px;
+  float: left;
+  color: #506b6b;
+  }
+header nav {
+  font-family: CandelaBold;
+  width: 480px;
+  float: right;
+  color: #506b6b;
+  }
+header nav div {
+  float: left;
+  width: 120px;
+  text-align: right;
+  }
+header nav div:nth-child(2) { position: relative; left: -20px; }
+header nav div:nth-child(3) { position: relative; left: -25px; }
+
+header nav div ul {
+  padding: 0;
+  list-style-type: none;
+  }
+header nav a.active { border-bottom: 1px dotted black; } /* I don't like this */
+header nav div:hover > h3 { position: relative; top: -2px; text-shadow: white 1px 3px 1px; }
+header div#intro {
+  width: 555px;
+  padding-left: 432px;
+  padding-top: 404px;
+  right: 0px;
+  font-family: CandelaBold, Arial, sans-serif;
+  font-size: 32px;
+  line-height: 48px;
+  }
+a:link, a:hover, a:visited { text-decoration: none; color: black; }
+a:hover { text-shadow: white 1px 1px 1px; }
+
+div.colwrapper { width: 100%; overflow: auto; }
+div#filling {
+  border: solid #91bcbc;
+  border-width: 1px 0 1px 0;
+  background-color: #ace8e8; 
+  padding: 55px 0 55px 0;
+  }
+div#filling div.colwrapper aside { 
+  font-size: 16px;
+  line-height: 21px;
+  width: 377px;
+  float: left;
+  }
+div#filling div.colwrapper article { width: 555px; float: right; }
+
+div#bottomslice {
+  }
+
+footer {
+  font-family: CandelaBook, Arial, sans-serif;
+  border-bottom: 3px solid #255757;
+  padding: 21px 0 21px 0;
+  }

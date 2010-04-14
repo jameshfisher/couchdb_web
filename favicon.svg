@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   id="svg5896"
+   version="1.1"
+   inkscape:version="0.47pre4 r22446"
+   inkscape:export-filename="/home/james/couchdb_redesign/favicon.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   sodipodi:docname="favicon.svg">
+  <defs
+     id="defs5898">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective5904" />
+    <inkscape:perspective
+       id="perspective5891"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6435"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6468"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3712"
+       id="radialGradient3718"
+       cx="1809.7126"
+       cy="-1821.6475"
+       fx="1809.7126"
+       fy="-1821.6475"
+       r="1974.1219"
+       gradientTransform="matrix(-1.2186808,0.00131788,0.13624352,-0.53482047,2050.127,-438.52699)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient3712">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3714" />
+      <stop
+         style="stop-color:#ace8e8;stop-opacity:1;"
+         offset="1"
+         id="stop3716" />
+    </linearGradient>
+    <inkscape:perspective
+       id="perspective6506"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6530"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3712-5"
+       id="radialGradient3718-3"
+       cx="1809.7126"
+       cy="-1821.6475"
+       fx="1809.7126"
+       fy="-1821.6475"
+       r="1974.1219"
+       gradientTransform="matrix(-1.2186808,0.00131788,0.13624352,-0.53482047,2050.127,-438.52699)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient3712-5">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3714-5" />
+      <stop
+         style="stop-color:#ace8e8;stop-opacity:1;"
+         offset="1"
+         id="stop3716-9" />
+    </linearGradient>
+    <inkscape:perspective
+       id="perspective6570"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6596"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="47.846952"
+     inkscape:cy="-7.9549133"
+     inkscape:document-units="px"
+     inkscape:current-layer="g6455"
+     showgrid="true"
+     inkscape:snap-global="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1006"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid6520"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5901">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1036.3622)">
+    <g
+       id="g6455"
+       transform="matrix(0.79822743,0.19536752,-0.19536752,0.79822743,515.01144,523.2536)">
+      <rect
+         style="fill:#35bfbf;fill-opacity:1;stroke:none"
+         id="rect3617"
+         width="19.469742"
+         height="2.4337177"
+         x="-626.69623"
+         y="624.41345"
+         inkscape:export-filename="/home/james/couchdb_redesign/design.png"
+         inkscape:export-xdpi="45.589012"
+         inkscape:export-ydpi="45.589012"
+         transform="matrix(0.97133013,-0.2377347,0.2377347,0.97133013,0,0)" />
+      <rect
+         style="color:#000000;fill:#ab0e1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect6560"
+         width="16.071428"
+         height="14.107142"
+         x="-0.044642858"
+         y="1.9821428"
+         transform="matrix(1.1819717,-0.28928958,0.28928958,1.1819717,-460.29197,755.46727)" />
+      <path
+         style="opacity:1;color:#000000;fill:#ea2d2d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="M 1 3 L 1 6 L 0.96875 6 L 0.96875 15.03125 L 4 15.03125 L 4 14 L 16 14 L 16 11.09375 L 4 11.09375 L 4 7 L 16 7 L 16 3 L 1 3 z "
+         transform="matrix(1.1819717,-0.28928958,0.28928958,1.1819717,-460.29197,755.46727)"
+         id="rect6613" />
+      <path
+         inkscape:export-ydpi="45.589012"
+         inkscape:export-xdpi="45.589012"
+         inkscape:export-filename="/home/james/couchdb_redesign/design.png"
+         id="polygon15-0-5"
+         d="m -453.25624,754.4648 -3.66308,1.94247 0.64393,2.62376 1.3018,1.08238 -2.62528,1.66096 -0.81709,1.43905 0.76836,3.13081 1.72072,0.28108 -0.44385,-1.80858 0.79097,0.35688 -0.30305,-1.23485 1.52092,-0.3742 3.85617,3.54814 1.10765,0.0281 2.84335,5.49603 0.80573,0.12409 1.03905,2.35613 3.25269,-0.79823 -3.12179,-8.17536 4.65867,-4.95887 3.63886,1.80832 0.66186,-0.46719 0.46419,0.68939 5.30496,-1.81878 -0.76514,-1.08614 -3.23576,0.003 -6.6322,-3.14723 -5.46181,3.76263 -2.44762,-1.9812 2.09262,-3.51845 2.65597,-0.65182 1.2653,0.62567 -0.21671,-0.88302 2.08913,-0.5127 -0.79229,-1.04773 -6.35435,0.53305 -4.62322,4.85995 -0.97956,-3.8872 z"
+         style="opacity:0.897541;fill:#000000;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:export-ydpi="45.589012"
+         inkscape:export-xdpi="45.589012"
+         inkscape:export-filename="/home/james/couchdb_redesign/design.png"
+         id="polygon15-0"
+         d="m -453.42934,753.58267 -3.66308,1.94247 0.64393,2.62376 1.3018,1.08238 -2.62528,1.66096 -0.81709,1.43905 0.76836,3.13081 1.72072,0.28108 -0.44385,-1.80858 0.79097,0.35688 -0.30305,-1.23485 1.52092,-0.3742 3.85617,3.54814 1.10765,0.0281 2.84335,5.49603 0.80573,0.12409 1.03905,2.35613 3.25268,-0.79826 -3.12179,-8.17536 4.65867,-4.95887 3.63886,1.80832 0.66186,-0.46719 0.46419,0.68939 5.30496,-1.81878 -0.76513,-1.08611 -3.23576,0.003 -6.6322,-3.14723 -5.46181,3.76263 -2.44762,-1.9812 2.09262,-3.51845 2.65597,-0.65182 1.2653,0.62567 -0.21671,-0.88302 2.08913,-0.51271 -0.79229,-1.04772 -6.35435,0.53305 -4.62322,4.85995 -0.97956,-3.8872 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    </g>
+  </g>
+</svg>

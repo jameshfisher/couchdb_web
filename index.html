@@ -1,0 +1,159 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+	<title>CouchDB | time to relax.</title>
+  
+  <link rel="icon" href="favicon.png" />
+	<link rel="stylesheet" href="css/candela/stylesheet.css" type="text/css" charset="utf-8" />
+  <link rel="stylesheet" href="css/site.css" type="text/css" charset="utf-8" />
+</head>
+
+<body>
+  <div id="topslice">
+    <div class="content">
+      <header>
+        <blockquote cite="http://jacobian.org/writing/of-the-web/">
+          “Django may be built <em>for</em> the Web, but CouchDB is built <em>of</em> the Web.
+          ... CouchDB makes Django look old-school in the same way that Django makes ASP look outdated.”<br />
+          
+          — <a href="http://jacobian.org/writing/of-the-web/" target="_blank">Jacob Kaplan-Moss, Django creator</a>
+        </blockquote>
+        <nav>
+          <div>
+            <h3>Get it</h3>
+            <ul>
+              <li><a href="download.html" class="active">Download it</a></li>
+              <li><a href="previous.html">Previous releases</a></li>
+              <li><a href="pacman.html">Package managers</a></li>
+              <li><a href="subversion.html">Subversion</a></li>
+            </ul>
+          </div>
+          <div>
+            <h3>See it</h3>
+            <ul>
+              <li><a href="screenshots.html">Screenshots</a></li>
+              <li><a href="demo.html">Live demo</a></li>
+            </ul>
+          </div>
+          <div>
+            <h3>Learn it</h3>
+            <ul>
+              <li><a href="overview.html">Overview</a></li>
+              <li><a href="wiki.html">Wiki</a></li>
+              <li><a href="books.html">Books</a></li>
+              <li><a href="planet.html">Planet</a></li>
+              <li><a href="mailing.html">Mailing lists</a></li>
+            </ul>
+          </div>
+          <div>
+            <h3>Support it</h3>
+            <ul>
+              <li><a href="subversion.html">Subversion</a></li>
+              <li><a href="issues.html">Issue tracking</a></li>
+              <li><a href="committers.html">Committers</a></li>
+              <li><a href="coding.html">Coding standards</a></li>
+              <li><a href="promote.html">Promote it</a></li>
+            </ul>
+          </div>
+        </nav>
+        
+        <div id="intro">
+          Goodbye, schemas and SQL.
+          Hello, JSON and MapReduce.
+          CouchDB is a database built for the web.
+        </div>
+      </header>
+      
+    </div>
+  </div>
+  <div id="filling">
+    <div class="content">
+      <div class="colwrapper">
+        <aside>
+          <p>
+            You're designing for the modern world.
+            Here, needs change, and fast.
+            You have to produce solutions quickly,
+            and they have to be updatable at a moment's notice.
+            It's running on your laptop now,
+            but next year it'll be running on a multi-terabyte cluster.
+          </p>
+          <p>
+            For such demands, you need the right tools.
+            You're pretty happy with your server-side framework and your JavaScript toolkit,
+            but that relational database ...
+            it chops up your business objects,
+            it bites you when you shake things up,
+            and SQL doesn't play nicely with your scripting language
+            &mdash; this sledgehammer has never sat comfortably in your toolbox.
+          </p>
+          <p>
+            You want a database that understands <em>objects</em>.
+            You want to talk to it in your native language.
+            It should accept the odd new attribute without balking.
+            And it should offer all the scalability and reliability that kept you hanging onto that RDBMS.
+          </p>
+          <p>
+            <b>Enter CouchDB.</b>
+          </p>
+        </aside>
+        <article>
+          <section>
+            <h3>Flexible</h3>
+            <p>
+              Start saving your data today, and <strong>adapt your queries as your application evolves</strong>, without migrating data formats.
+              Query your data using familiar JavaScript (or your language of choice).
+              CouchDB's views are <strong>optimized for real-time</strong>, rather than batch, workloads.
+              Its MVCC data model is suitable for concurrent operations that require <strong>consistency</strong>.
+            </p>
+          </section>
+          <section>
+            <h3>Web scale</h3>
+            <p>
+              CouchDB can <strong>scale</strong> from a smartphone to a data-center.
+              Erlang and REST present the <strong>same, simple API</strong>
+              whether running on a small local instance,
+              an ad-hoc network of collaborators,
+              or a multi-terabyte eventually-consistent cluster.
+            </p>
+          </section>
+          <section>
+            <h3>Reliable</h3>
+            <p>
+              <strong>Committed updates are durable:</strong>
+              CouchDB uses append-only storage, never touching any bytes already written to disk.
+              Even truncating a CouchDB database file yields a <strong>consistent snapshot</strong> of an older version of the database.
+              Writes are contiguous, giving CouchDB predictable performance even under heavily concurrent write load.
+            </p>
+          </section>
+          <section>
+            <h3>Ground computing</h3>
+            <p>
+              Write <strong>offline-capable applications</strong> using a simple document model:
+              CouchDB solves the data-island problem for you.
+              <strong>Peer-based replication</strong> allows for flexible deployments,
+              data-sharing between organizations, and no-hassle backups.
+              Running <strong>CouchDB on the client</strong> with continuous replication to remote servers
+              offers better latency and reliability than traditional three-tier architectures.
+            </p>
+          </section>
+          <section>
+            <h3>Trusted</h3>
+            <p>
+              CouchDB is deployed by the <strong>BBC</strong>, Meebo, Cloudant and Ubuntu One.
+              It ships as a <strong>core feature of Ubuntu Linux.</strong>
+              There are access libraries available in nearly every language.
+            </p>
+          </section>
+        </article>
+      </div>
+    </div>
+  </div>
+  <div id="bottomslice">
+      <footer>
+        <strong>&copy Apache Software Foundation 2008&ndash;10.</strong>
+      </footer>
+  </div>
+</body>
+</html>
