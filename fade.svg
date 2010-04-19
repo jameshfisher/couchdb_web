@@ -15,13 +15,16 @@
    id="svg8343"
    version="1.1"
    inkscape:version="0.47pre4 r22446"
-   sodipodi:docname="fade.svg">
+   sodipodi:docname="fade.svg"
+   inkscape:export-filename="/home/james/couchdb_redesign/css/fade.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs8345">
     <linearGradient
        id="linearGradient8886">
       <stop
-         style="stop-color:#000000;stop-opacity:0.19607843;"
+         style="stop-color:#000000;stop-opacity:0.11764706;"
          offset="0"
          id="stop8888" />
       <stop

@@ -1,7 +1,7 @@
 header, footer, nav, article, section, aside { display: block; }
 body {
   margin: 0; 
-  background-color: #9fd6d6; 
+  background-color: #ace8e8; 
   background-image: url("fade.png");
   background-repeat: repeat-x;
   font-size: 14px;
@@ -16,7 +16,7 @@ div#topslice {
   padding-bottom: 55px;
   }
 h1,h2,h3,h4,h5,h6 {
-  font-family: CandelaBook, Arial, sans-serif;
+  font-family: Myriad, "Myriad Pro", Arial, sans-serif; /* CandelaBook; */
   text-shadow: white 1px 1px 1px;
   }
 h3 { font-size: 20px; }
@@ -31,7 +31,7 @@ header blockquote {
   color: #506b6b;
   }
 header nav {
-  font-family: CandelaBold;
+  font-family: Myriad, "Myriad Pro", Arial, sans-serif; /* CandelaBold; */
   width: 480px;
   float: right;
   color: #506b6b;
@@ -51,11 +51,12 @@ header nav div ul {
 header nav a.active { border-bottom: 1px dotted black; } /* I don't like this */
 header nav div:hover > h3 { position: relative; top: -2px; text-shadow: white 1px 3px 1px; }
 header div#intro {
+  display: none;
   width: 555px;
   padding-left: 432px;
   padding-top: 404px;
   right: 0px;
-  font-family: CandelaBold, Arial, sans-serif;
+  font-family: Myriad, "Myriad Pro", Arial, sans-serif; /* CandelaBold; */
   font-size: 32px;
   line-height: 48px;
   }
@@ -66,7 +67,7 @@ div.colwrapper { width: 100%; overflow: auto; }
 div#filling {
   border: solid #91bcbc;
   border-width: 1px 0 1px 0;
-  background-color: #ace8e8; 
+  background-color: #c0eeee; 
   padding: 55px 0 55px 0;
   }
 div#filling div.colwrapper aside { 
@@ -81,7 +82,7 @@ div#bottomslice {
   }
 
 footer {
-  font-family: CandelaBook, Arial, sans-serif;
+  font-family: Myriad, "Myriad Pro", Arial, sans-serif; /* CandelaBook; */
   border-bottom: 3px solid #255757;
   padding: 21px 0 21px 0;
   }
