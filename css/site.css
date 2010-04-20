@@ -16,10 +16,11 @@ div#topslice {
   padding-bottom: 55px;
   }
 h1,h2,h3,h4,h5,h6 {
-  font-family: Myriad, "Myriad Pro", Arial, sans-serif; /* CandelaBook; */
+  font-family: Verdana, sans-serif; /* CandelaBook; */
   text-shadow: white 1px 1px 1px;
+  font-size: 0.2em;
   }
-h3 { font-size: 20px; }
+h3 { font-size: 16px; }
 header {
   border: 0;
   border-top: 21px solid #bd101d;
@@ -31,7 +32,7 @@ header blockquote {
   color: #506b6b;
   }
 header nav {
-  font-family: Myriad, "Myriad Pro", Arial, sans-serif; /* CandelaBold; */
+  font-family: Verdana, sans-serif; /* CandelaBold; */
   width: 480px;
   float: right;
   color: #506b6b;
@@ -39,6 +40,7 @@ header nav {
 header nav div {
   float: left;
   width: 120px;
+  font-size: 12px;
   text-align: right;
   }
 header nav div:nth-child(2) { position: relative; left: -20px; }
@@ -56,7 +58,7 @@ header div#intro {
   padding-left: 432px;
   padding-top: 404px;
   right: 0px;
-  font-family: Myriad, "Myriad Pro", Arial, sans-serif; /* CandelaBold; */
+  font-family: Verdana, sans-serif; /* CandelaBold; */
   font-size: 32px;
   line-height: 48px;
   }
@@ -82,7 +84,7 @@ div#bottomslice {
   }
 
 footer {
-  font-family: Myriad, "Myriad Pro", Arial, sans-serif; /* CandelaBook; */
+  font-family: Verdana, sans-serif; /* CandelaBook; */
   border-bottom: 3px solid #255757;
   padding: 21px 0 21px 0;
   }
